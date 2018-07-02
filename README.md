@@ -2,7 +2,9 @@
 
 # Mapping global connections
 
-Inspired by "Global Cities: α, β and γ tiers" map (Carta* & González 2010), we set out to visualize global connections using open data. First, we used airlines data from openflights.org to map airplane routes. Secondly, we mapped ....
+Inspired by the new world formation as depicted "Global Cities: α, β and γ tiers" map (Carta & González 2010), in this project, we set out to visualize global connections to understand why international connectedness characterises global cities, an emerging city unit that has drastically transcended every national frontier.
+
+Using open data extracted from multiple verified sources,  first, we used airlines data retrieved from openflights.org to map airplane routes all around the world. Second, we connected the routes with available cities 
 
 ![Connections plot example](plots/chart01.png)
 
@@ -14,7 +16,7 @@ Full source code is available from the following github repo: [https://github.co
 
 **Airlines data:** airlines route data and airports data from openflights.org [https://openflights.org/data.html](https://openflights.org/data.html)
 
- **GDP data:** from UN
+ **GDP data:** from OECD, Passport Euro Monitor
 
 ## License:
 
